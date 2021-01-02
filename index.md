@@ -1,6 +1,6 @@
 # LIN200 - Introduction to Language
 
-https://ipa.typeit.org/full/
+[https://ipa.typeit.org/full/](https://ipa.typeit.org/full/)
 
 ## Table of Contents
 
