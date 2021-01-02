@@ -26,5 +26,8 @@ https://ipa.typeit.org/full/
    1. [Sociolinguistics](8-1 sociolinguistics)
    2. [Factors impacting language variation](8-2 factors impacting language variation)
    3. [Pidgins, Creoles, and Code Switching](8-3 pidgins creoles and code switching)
-9. ... (I stopped here 😢)
+9. Week 9
+10. Week 10
+   1. [Language acquisition](10-1 language acquisition)
+11. ... (I stopped here 😢)
 
